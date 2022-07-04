@@ -1,2 +1,2 @@
 # best-practices
-best practices in python
+Лучшие практики написания кода на Python
