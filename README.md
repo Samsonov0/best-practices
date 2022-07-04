@@ -1,2 +1,3 @@
 # best-practices
-Лучшие практики написания кода на Python
+
+If you recruiter please don't see code in this repository
